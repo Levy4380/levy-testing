@@ -6,7 +6,8 @@ body{
     align-items: center;
     background: wheat;
 }
-.chamuyo{
+.chamuyo,
+.chamuyo2{
     display:none;
 } 
 
